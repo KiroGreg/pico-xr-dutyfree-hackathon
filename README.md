@@ -4,7 +4,7 @@
 
 ---
 
-## 🛍️ About the Project
+## About the Project
 
 - **The Challenge:** 48 hours to build a Mixed-Reality prototype with zero prior experience in Unity, Blender, or the PICO SDK.
 - **The Project:** A virtual Duty-Free area for **Gebr. Heinemann** featuring a real-time visitor heatmap.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Features & Components
+## Features & Components
 - **XR Interaction Toolkit (XRI):** Interactive VR/MR elements and controls.
 - **Slot Management (`SlotManager.cs`):** Game/interaction slot handling.
 - **See-Through / Passthrough (`SeeThroughActivator.cs`):** Mixed Reality passthrough management.
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 Since the PICO Unity Integration SDK is proprietary software owned by *PICO Technology Co., Ltd.* and subject to strict redistribution restrictions, it cannot be hosted directly in this public repository. You will need to add the SDK locally after cloning.
 
@@ -51,7 +51,7 @@ Since the PICO Unity Integration SDK is proprietary software owned by *PICO Tech
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 ├── Assets/
 │   ├── Scenes/           # Unity Scenes (e.g. SampleScene)
@@ -66,5 +66,5 @@ Since the PICO Unity Integration SDK is proprietary software owned by *PICO Tech
 
 ---
 
-## 📄 License
+## License
 This project is open-source under the repository license. The PICO Unity Integration SDK remains the property of *PICO Technology Co., Ltd.* and is subject to its respective license agreement.
